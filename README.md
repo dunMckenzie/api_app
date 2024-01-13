@@ -20,12 +20,12 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/MyApp.git
+   git clone https://github.com/your-username/api_app.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd MyApp
+   cd api_app
    ```
 
 3. Run the app:
